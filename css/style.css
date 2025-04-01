@@ -177,9 +177,9 @@ ul {
   color: var(--color-secondary);
 }
 
-/* Section: Now Playing */
+/* Section: Welcome */
 
-section.now-playing {
+section.welcome {
   padding: 60px;
   background: url(../images/showcase-bg.jpg) no-repeat center center/cover;
 }
@@ -188,6 +188,7 @@ section h2 {
   margin: 20px 0;
   text-align: center;
   text-transform: uppercase;
+  font-size: 38px;
 }
 
 /* Slider */
